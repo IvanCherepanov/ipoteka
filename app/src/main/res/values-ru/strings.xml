@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ипотечный калькулятор</string>
+    <string name="label_years">Количество лет</string>
+    <string name="done">Рассчитать</string>
+    <string name="label_total_payment">Суммарная плата</string>
+    <string name="modify_data">Изменить рассчетное время</string>
+    <string name="label_monthly_payment">Ежемесячный платеж</string>
+    <string name="label_rate">Процентная ставка</string>
+    <string name="label_amount">Сумма</string>
+</resources>
